@@ -1,0 +1,15 @@
+$main-color: #ffffff;
+$second-color: #262626;
+$one-color: #00654E;
+$two-color: #006E55;
+$free-color: #005844;
+$main-bg-color:#005844;
+$second-bg-color: #C0B487;
+$triger-color: #E6AB39;
+$url-features-one: url('../images/icons/tree.svg');
+$url-features-two: url('../images/icons/christmas-decorations.svg');
+$url-features-free: url('../images/icons/flowers.svg');
+$url-features-four: url('../images/icons/delivery-truck.svg');
+
+
+@include font-face(cormorant-v11-latin_cyrillic-700, cormorant-v11-latin_cyrillic-700, 700);
